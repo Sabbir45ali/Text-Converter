@@ -1,22 +1,40 @@
-Text-Converter
-This is a simple web application that allows you to convert text between different formats, such as uppercase, lowercase, title case, and more. It is built using React and npm, and is designed to be easy to use and customize.
+# Text Converter Website
 
-Installation
-To install the Text-Converter application, you will need to have Node.js and npm installed on your computer. Once you have these installed, you can follow these steps:
+This website is for Analys Text and convert this text as per required.
 
-Clone the repository to your local machine using git clone https://github.com/Sabbir45ali/Text-Converter.git.
-Navigate to the project directory using cd Text-Converter.
-Install the dependencies using npm install.
-Usage
-To use the Text-Converter application, you can run it locally using npm start. This will start a development server and open the application in your default web browser.
+## Table of Contents
 
-Once the application is running, you can enter text in the input field and select the desired conversion format from the dropdown menu. The converted text will be displayed in the output field.
+- [For practice --](#about)
+- [# Run the development server
+npm start
+](#usage)
+- [Explain how others can contribute to your project. Include information about code style, submitting issues, and making pull requests.](#contributing)
+- [This project is licensed under the Sabbir Ali - see the LICENSE.md file for details.](#license)
+- [Author: [Sabbir Ali]
+   GitHub: Sabbir45ali
+   Email: sabbir84b@gmail.com](#contact)
 
-Deployment
-To deploy the Text-Converter application to GitHub Pages, you can run the command npm run deploy. This will build the application and publish it to the gh-pages branch of your repository.
+## About
 
-Contributing
-If you would like to contribute to the Text-Converter project, you can fork the repository and submit a pull request with your changes. Please make sure to follow the existing coding style and conventions, and to test your changes thoroughly before submitting.
+Its use full for converting Text
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Features
+
+- List key features of your text converter website.
+
+## Getting Started
+
+Explain how to set up the project locally for development and testing.
+
+### Prerequisites
+
+List any prerequisites or system requirements.
+
+- Node.js and npm (Node Package Manager)
+
+### Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/Sabbir45ali/Text-Converter-website.git
