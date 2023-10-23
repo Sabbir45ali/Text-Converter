@@ -49,7 +49,7 @@ export default function Textarea(props) {
           Convert to Uppercase
         </button>
         <button className="btn btn-primary my-2 mx-1" onClick={clicklowcase}>
-          Convert to Lowercase
+          Convert to Lowcase
         </button>
         <button className="btn btn-primary my-2 mx-1" onClick={clickCapitalizecase}>
           Convert to Capitalized
