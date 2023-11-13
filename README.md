@@ -32,7 +32,7 @@ List any prerequisites or system requirements.
 
 ### LICENCE 
 
-[Sabbir Ali](https://github.com/Sabbir45ali/Stock-Analycis/blob/master/LICENSE)
+[Sabbir Ali](https://github.com/Sabbir45ali/Text-Converter/blob/master/LICENSE)
 
 ### Installation
 
