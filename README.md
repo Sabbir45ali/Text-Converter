@@ -5,9 +5,7 @@ This website is for Analys Text and convert this text as per required.
 ## Table of Contents
 
 - [For practice --](#about)
-- [# Run the development server
-npm start
-](#usage)
+- [# Run the development server npm start](#usage)
 - [Explain how others can contribute to your project. Include information about code style, submitting issues, and making pull requests.](#contributing)
 - [This project is licensed under the Sabbir Ali - see the LICENSE.md file for details.](#license)
 - [Author: [Sabbir Ali]
@@ -32,9 +30,13 @@ List any prerequisites or system requirements.
 
 - Node.js and npm (Node Package Manager)
 
+### LICENCE 
+
+[Sabbir Ali](https://github.com/Sabbir45ali/Stock-Analycis/blob/master/LICENSE)
+
 ### Installation
 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Sabbir45ali/Text-Converter-website.git
+   git clone https://github.com/Sabbir45ali/Text-Converter.git
